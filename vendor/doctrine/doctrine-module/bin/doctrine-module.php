@@ -31,7 +31,7 @@ while (!file_exists('config/application.config.php')) {
     if ($previousDir === $dir) {
         throw new RuntimeException(
             'Unable to locate "config/application.config.php": ' .
-            'is DoctrineModule in a subdir of your application index?'
+            'is DoctrineModule in a subdir of your application skeleton?'
         );
     }
 
@@ -49,4 +49,4 @@ $application = Application::init(include 'config/application.config.php');
 
 /* @var $cli \Symfony\Component\Console\Application */
 $cli = $application->getServiceManager()->get('doctrine.cli');
-$cli->run();
+exit($cli->run());

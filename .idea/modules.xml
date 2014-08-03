@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/zfbyexample.iml" filepath="$PROJECT_DIR$/.idea/zfbyexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zfdoctrine.iml" filepath="$PROJECT_DIR$/.idea/zfdoctrine.iml" />
     </modules>
   </component>
 </project>

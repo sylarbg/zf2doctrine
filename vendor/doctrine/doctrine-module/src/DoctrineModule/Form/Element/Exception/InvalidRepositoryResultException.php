@@ -17,38 +17,10 @@
  * <http://www.doctrine-project.org>.
  */
 
-namespace DoctrineORMModule\Service;
+namespace DoctrineModule\Form\Element\Exception;
 
-use DoctrineModule\Service\AbstractFactory;
-use DoctrineORMModule\Form\Annotation\AnnotationBuilder;
-use Zend\ServiceManager\ServiceLocatorInterface;
+use InvalidArgumentException;
 
-/**
- * Service factory responsible for instantiating {@see \DoctrineORMModule\Form\Annotation\AnnotationBuilder}
- *
- * @license MIT
- * @link    http://www.doctrine-project.org/
- * @author  Marco Pivetta <ocramius@gmail.com>
- */
-class FormAnnotationBuilderFactory extends AbstractFactory
+class InvalidRepositoryResultException extends InvalidArgumentException
 {
-    /**
-     * {@inheritDoc}
-     *
-     * @return \DoctrineORMModule\Form\Annotation\AnnotationBuilder
-     */
-    public function createService(ServiceLocatorInterface $serviceLocator)
-    {
-        /* @var $entityManager \Doctrine\ORM\EntityManager */
-        $entityManager = $serviceLocator->get('doctrine.entitymanager.' . $this->getName());
-
-        return new AnnotationBuilder($entityManager);
-    }
-
-    /**
-     * {@inheritDoc}
-     */
-    public function getOptionsClass()
-    {
-    }
 }

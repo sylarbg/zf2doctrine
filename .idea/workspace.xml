@@ -1,8 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04015259-964e-4481-8909-4f843c2f63ef" name="Default" comment="" />
-    <ignored path="zfbyexample.iws" />
+    <list default="true" id="306d5158-5435-4a01-a16d-10d1557ad515" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/zfdoctrine.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bin/load-fixtures.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/zfbyexample.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/Blog" afterPath="$PROJECT_DIR$/module/Blog" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.phar" afterPath="$PROJECT_DIR$/composer.phar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/.travis.yml" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/.travis.yml" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Form/Annotation/AnnotationBuilder.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Form/Annotation/AnnotationBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Form/AnnotationBuilderTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Form/AnnotationBuilderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Controller/CliController.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Controller/CliController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Controller/CliControllerTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Controller/CliControllerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options/Configuration.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options/Configuration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Service/ConfigurationFactory.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Service/ConfigurationFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Service/ConfigurationFactoryTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Service/ConfigurationFactoryTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Options/ConfigurationOptionsTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Options/ConfigurationOptionsTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Stdlib/Hydrator/DoctrineObject.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Stdlib/Hydrator/DoctrineObject.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Stdlib/Hydrator/DoctrineObjectTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Stdlib/Hydrator/DoctrineObjectTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Form/Annotation/ElementAnnotationsListener.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Form/Annotation/ElementAnnotationsListener.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Form/ElementAnnotationsListenerTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Form/ElementAnnotationsListenerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Service/FormAnnotationBuilderFactory.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Service/FormAnnotationBuilderFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Assets/Entity/FormEntity.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Assets/Entity/FormEntity.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/LICENSE" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Collector/MappingCollector.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Collector/MappingCollector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Service/MappingCollectorFactory.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Service/MappingCollectorFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Service/MigrationsCommandFactoryTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Service/MigrationsCommandFactoryTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Service/MigrationsConfigurationFactory.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Service/MigrationsConfigurationFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Module.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Module.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Validator/ObjectExists.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Validator/ObjectExists.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Form/Element/ObjectMultiCheckbox.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Form/Element/ObjectMultiCheckbox.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Form/Element/ObjectMultiCheckboxTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Form/Element/ObjectMultiCheckboxTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Form/Element/ObjectRadio.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Form/Element/ObjectRadio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Form/Element/ObjectSelect.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Form/Element/ObjectSelect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Form/Element/ObjectSelectTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Form/Element/ObjectSelectTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Form/Element/Proxy.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Form/Element/Proxy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Form/Element/ProxyTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Form/Element/ProxyTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/README.md" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/README.md" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Framework/TestCase.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/tests/DoctrineORMModuleTest/Framework/TestCase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/UPGRADE.md" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/UPGRADE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/UPGRADE.md" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/UPGRADE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Validator/UniqueObject.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Validator/UniqueObject.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Validator/UniqueObjectTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Validator/UniqueObjectTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.config.php" afterPath="$PROJECT_DIR$/config/application.config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/docs/authentication.md" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/docs/authentication.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/composer.json" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/composer.json" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/config/controllers.config.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/config/controllers.config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/bin/doctrine-module.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/bin/doctrine-module.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/view/zend-developer-tools/toolbar/doctrine-orm-queries.phtml" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/view/zend-developer-tools/toolbar/doctrine-orm-queries.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/docs/form-element.md" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/docs/form-element.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/docs/validator.md" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module/docs/validator.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="zfdoctrine.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,41 +77,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="zfbyexample" />
+    <favorites_list name="zfdoctrine" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="module.config.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/Blog/config/module.config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="34" selection-start="129" selection-end="129" vertical-scroll-proportion="-0.0" vertical-offset="90" max-vertical-offset="1296">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Post.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module/Blog/src/Blog/Entity/Post.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="33" selection-start="606" selection-end="606" vertical-scroll-proportion="1.1829485" vertical-offset="0" max-vertical-offset="2052">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndexController.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="IndexController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module/Blog/src/Blog/Controller/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="21" selection-start="396" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="594">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="local.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/autoload/local.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="43" selection-start="433" selection-end="433" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="342">
+            <state line="19" column="83" selection-start="626" selection-end="652" vertical-scroll-proportion="0.28723404" vertical-offset="72" max-vertical-offset="1026">
               <folding />
             </state>
           </provider>
@@ -66,58 +97,30 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/module/Users/src/Users/Form/RegisterForm.php" />
-        <option value="$PROJECT_DIR$/config/autoload/global.php" />
-        <option value="$PROJECT_DIR$/module/Users/src/Users/Form/RegisterFilter.php" />
-        <option value="$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Authentication/AuthenticationService.php" />
-        <option value="$PROJECT_DIR$/module/Users/src/Users/Form/LoginForm.php" />
-        <option value="$PROJECT_DIR$/module/Users/src/Users/Model/UserTable.php" />
-        <option value="$PROJECT_DIR$/module/Users/view/users/register/index.phtml" />
-        <option value="$PROJECT_DIR$/module/Users/src/Users/Model/User.php" />
-        <option value="$PROJECT_DIR$/module/Users/view/users/user-manager/edit.phtml" />
-        <option value="$PROJECT_DIR$/module/Users/view/users/user-manager/index.phtml" />
-        <option value="$PROJECT_DIR$/module/Users/src/Users/Controller/RegisterController.php" />
-        <option value="$PROJECT_DIR$/module/Users/view/users/user-manager/add.phtml" />
-        <option value="$PROJECT_DIR$/module/Users/src/Users/Controller/UserManagerController.php" />
-        <option value="$PROJECT_DIR$/module/Users/src/Users/Form/UploadForm.php" />
-        <option value="$PROJECT_DIR$/module/Users/view/users/upload-manager/edit.phtml" />
-        <option value="$PROJECT_DIR$/module/Users/config/module.config.php" />
-        <option value="$PROJECT_DIR$/module/Users/src/Users/Controller/LoginController.php" />
-        <option value="$PROJECT_DIR$/module/Users/Module.php" />
-        <option value="$PROJECT_DIR$/module/Users/view/users/upload-manager/index.phtml" />
-        <option value="$PROJECT_DIR$/module/Users/src/Users/Controller/UploadManagerController.php" />
-        <option value="$PROJECT_DIR$/module/ZfDeals/src/ZfDeals/AdminController.php" />
-        <option value="$PROJECT_DIR$/module/ZfDeals/src/ZfDeals/Controller/AdminController.php" />
-        <option value="$PROJECT_DIR$/unittest/composer.json" />
-        <option value="$PROJECT_DIR$/unittest/FirstTest.php" />
-        <option value="$PROJECT_DIR$/public/index.php" />
-        <option value="$PROJECT_DIR$/module/Application/view/application/index/index.phtml" />
-        <option value="$PROJECT_DIR$/module/Application/src/Application/Event/MySampleListner2.php" />
-        <option value="$PROJECT_DIR$/module/Application/config/module.config.php" />
-        <option value="$PROJECT_DIR$/module/Application/src/Application/Event/SampleListner.php" />
-        <option value="$PROJECT_DIR$/module/Application/src/Application/Event/MySampleListener.php" />
-        <option value="$PROJECT_DIR$/module/Application/src/Application/Controller/IndexController.php" />
-        <option value="$PROJECT_DIR$/module/Application/Module.php" />
-        <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/config/application.config.php" />
-        <option value="$PROJECT_DIR$/module/ZendSkeletonModule/config/module.config.php" />
-        <option value="$PROJECT_DIR$/module/ZendSkeletonModule/Module.php" />
-        <option value="$PROJECT_DIR$/module/Blog/Module.php" />
-        <option value="$PROJECT_DIR$/module/Blog/src/Blog/Controller/SkeletonController.php" />
-        <option value="$PROJECT_DIR$/module/Blog/src/Blog/Controller/IndexController.php" />
-        <option value="$PROJECT_DIR$/module/Blog/config/module.config.php" />
         <option value="$PROJECT_DIR$/config/autoload/local.php" />
-        <option value="$PROJECT_DIR$/module/Blog/src/Blog/Entity/Post.php" />
+        <option value="$PROJECT_DIR$/module/Blog/src/Blog/DataFixtures/LoadUserData.php" />
+        <option value="$PROJECT_DIR$/module/Blog/src/Blog/Entity/Posт.php" />
+        <option value="$PROJECT_DIR$/module/Blog/src/Blog/Fixture/LoadUserData.php" />
+        <option value="$PROJECT_DIR$/config/application.config.php" />
+        <option value="$PROJECT_DIR$/vendor/bin/load-fixtures.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/module/Blog/src/Blog/Fixture/PostLoad.php" />
+        <option value="$PROJECT_DIR$/module/Blog/config/module.config.php" />
+        <option value="$PROJECT_DIR$/module/Blog/src/Blog/Controller/IndexController.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1055" />
+    <option name="y" value="24" />
+    <option name="width" value="1366" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -149,27 +152,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -183,11 +186,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -199,25 +202,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="Blog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
+              <option name="myItemId" value="Fixture" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -243,11 +246,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -266,18 +269,14 @@
               <option name="myItemId" value="Blog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -295,11 +294,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -309,11 +308,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -323,11 +322,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfbyexample" />
+              <option name="myItemId" value="zfdoctrine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -345,47 +344,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../melon" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="SearchEverywhereHistory" value="" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/unittest" />
-      <recent name="$PROJECT_DIR$/module/Users/view/users" />
-      <recent name="$PROJECT_DIR$/module/Users/src/Users/Form" />
-      <recent name="$PROJECT_DIR$/module/Users" />
-      <recent name="$PROJECT_DIR$/module/Users/config" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/module/Blog/src/Blog/Entity" />
-      <recent name="$PROJECT_DIR$/module/ZfDeals/src/ZfDeals/Controller" />
-      <recent name="$PROJECT_DIR$/module/Users/src/Users" />
-      <recent name="$PROJECT_DIR$/module/Users/src" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -394,29 +358,7 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="XSLT" factoryName="XSLT">
-      <option name="myOutputFile" />
-      <option name="myOpenOutputFile" value="false" />
-      <option name="myOpenInBrowser" value="false" />
-      <option name="mySmartErrorHandling" value="true" />
-      <option name="myRunnerPort" value="34873" />
-      <option name="myVmArguments" />
-      <option name="myWorkingDirectory" />
-      <option name="myModule" />
-      <option name="myJdk" />
-      <parameters />
-      <OutputType value="CONSOLE" save-to-file="false" />
-      <FileType name="XML" />
-      <JdkChoice value="FROM_MODULE" />
-      <method />
-    </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
-    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
-      <option name="VM_PARAMETERS" value="" />
-      <option name="USER_CFG_CLASS" />
-      <option name="CONTEXT_PROVIDER" />
       <method />
     </configuration>
     <list size="0" />
@@ -424,34 +366,34 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="04015259-964e-4481-8909-4f843c2f63ef" name="Default" comment="" />
-      <created>1403763502977</created>
-      <updated>1403763502977</updated>
+      <changelist id="306d5158-5435-4a01-a16d-10d1557ad515" name="Default" comment="" />
+      <created>1406996330079</created>
+      <updated>1406996330079</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1055" extended-state="0" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32934782" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3275488" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2820513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -468,213 +410,72 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/module/Blog/config/module.config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="34" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1296">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Blog/src/Blog/Controller/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="396" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="594">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/autoload/local.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="342">
+        <state line="10" column="39" selection-start="390" selection-end="390" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="396">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/autoload/global.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="36" selection-start="787" selection-end="810" vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="666" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/autoload/local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Authentication/Adapter/AdapterInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="20" selection-start="618" selection-end="618" vertical-scroll-proportion="0.26927504" vertical-offset="0" max-vertical-offset="869" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Authentication/Adapter/DbTable.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="42" selection-start="415" selection-end="415" vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="306" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Authentication/Adapter/DbTable/CredentialTreatmentAdapter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="25" selection-start="1246" selection-end="1263" vertical-scroll-proportion="0.29574224" vertical-offset="265" max-vertical-offset="2160" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Authentication/Validator/Authentication.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="208" column="31" selection-start="4759" selection-end="4759" vertical-scroll-proportion="2.118527" vertical-offset="1687" max-vertical-offset="4446" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Authentication/AuthenticationService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="32" selection-start="3137" selection-end="3150" vertical-scroll-proportion="-15.333333" vertical-offset="1566" max-vertical-offset="2916" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Navigation/Service/ConstructedNavigationFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="28" selection-start="1259" selection-end="1259" vertical-scroll-proportion="-26.185184" vertical-offset="49" max-vertical-offset="918" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Navigation/Page/Mvc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9918" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Navigation/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="896" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Navigation/Page/AbstractPage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="22428" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Navigation/Service/AbstractNavigationFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="49" selection-start="1735" selection-end="1745" vertical-scroll-proportion="11.296296" vertical-offset="1133" max-vertical-offset="2610" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Navigation/Service/DefaultNavigationFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="3" selection-start="382" selection-end="384" vertical-scroll-proportion="0.14499424" vertical-offset="0" max-vertical-offset="869" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Navigation/AbstractContainer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="462" column="28" selection-start="13130" selection-end="13130" vertical-scroll-proportion="-0.29344073" vertical-offset="8391" max-vertical-offset="9324" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Navigation/Navigation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="21" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.579977" vertical-offset="0" max-vertical-offset="869" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="32" selection-start="2308" selection-end="2336" vertical-scroll-proportion="-2.348131" vertical-offset="2532" max-vertical-offset="5814" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="52" selection-start="582" selection-end="582" vertical-scroll-proportion="0.20713463" vertical-offset="0" max-vertical-offset="2034" />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="541" column="9" selection-start="14816" selection-end="14816" vertical-scroll-proportion="0.3429229" vertical-offset="9440" max-vertical-offset="18360" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/autoload/global.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="36" selection-start="787" selection-end="810" vertical-scroll-proportion="0.35132033" vertical-offset="0" max-vertical-offset="871" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Application/view/application/index/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="868" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Application/view/layout/layout.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1098" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="23" selection-start="402" selection-end="426" vertical-scroll-proportion="0.33179724" vertical-offset="0" max-vertical-offset="868" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Application/Module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="45" selection-start="959" selection-end="959" vertical-scroll-proportion="0.66784453" vertical-offset="0" max-vertical-offset="828" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Application/src/Application/Controller/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="62" selection-start="1030" selection-end="1030" vertical-scroll-proportion="0.6360424" vertical-offset="0" max-vertical-offset="566" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="440" selection-end="440" vertical-scroll-proportion="0.29032257" vertical-offset="0" max-vertical-offset="868" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Application/config/module.config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="86" selection-start="2840" selection-end="2914" vertical-scroll-proportion="-46.0" vertical-offset="0" max-vertical-offset="1836" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/Blog/autoload_classmap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="76" selection-start="216" selection-end="216" vertical-scroll-proportion="0.08294931" vertical-offset="0" max-vertical-offset="868" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Blog/Module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="570" selection-end="570" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="756" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="238" selection-end="242" vertical-scroll-proportion="0.16589862" vertical-offset="0" max-vertical-offset="1332" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Blog/src/Blog/Controller/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="396" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="594">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Blog/config/module.config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="34" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1296">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/autoload/zdt.local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2862">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/autoload/local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="43" selection-start="433" selection-end="433" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="342">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/Blog/src/Blog/Entity/Post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="33" selection-start="606" selection-end="606" vertical-scroll-proportion="1.1829485" vertical-offset="0" max-vertical-offset="2052">
+        <state line="97" column="21" selection-start="1585" selection-end="1585" vertical-scroll-proportion="0.4007092" vertical-offset="1520" max-vertical-offset="2088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bin/load-fixtures.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="0.22340426" vertical-offset="0" max-vertical-offset="564">
+          <folding>
+            <element signature="e#6#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="26" selection-start="209" selection-end="226" vertical-scroll-proportion="-1.1702127" vertical-offset="786" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="5" selection-start="559" selection-end="559" vertical-scroll-proportion="0.5106383" vertical-offset="0" max-vertical-offset="564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Blog/config/module.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="9" selection-start="2584" selection-end="2584" vertical-scroll-proportion="-16.88889" vertical-offset="750" max-vertical-offset="1368">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Blog/src/Blog/Fixture/PostLoad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="14" selection-start="167" selection-end="167" vertical-scroll-proportion="0.25531915" vertical-offset="0" max-vertical-offset="702">
+          <folding>
+            <element signature="e#31#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Blog/src/Blog/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="83" selection-start="626" selection-end="652" vertical-scroll-proportion="0.28723404" vertical-offset="72" max-vertical-offset="1026">
           <folding />
         </state>
       </provider>
